@@ -20,18 +20,9 @@ public class ArrayUtility {
     }
 
     public Integer[] rotate(Integer[] array, Integer index) {
-//        Integer[] newArr = new Integer[array.length];
-//
-//        for (int i = 0; i < index; i++) {
-//            for (int j = array.length - 1; j > 0; j--) {
-//                int temp = array[j];
-//                newArr[j] = array[j - 1];
-//                newArr[j - 1] = temp;
-//            }
-//        }
-//        return array;
 
         return null;
+
     }
 
     public Integer countOccurrence(Integer[] array1, Integer[] array2, Integer valueToEvaluate) {

@@ -1,15 +1,17 @@
 package com.zipcodewilmington.assessment2.part2;
 
+import javax.rmi.CORBA.Util;
+import java.util.ArrayList;
 import java.util.List;
 
-public class ListUtility {
+public class ListUtility{
 
     public Boolean add(int i) {
         return null;
     }
 
     public Integer size() {
-        return null;
+       return null;
     }
 
     public List<Integer> getUnique() {
