@@ -34,6 +34,8 @@ public class ListUtility{
     }
 
     public Boolean contains(Integer valueToAdd) {
-        return null;
+        if (arr.contains(valueToAdd)) {
+            return true;
+        }else return false;
     }
 }
